@@ -147,5 +147,4 @@ reviewer_2.rate_students(student_1, 'Git', 9)
 # print(student_1.grades)
 # print(student_2.grades)
 
-
 # print (x(student_1, student_2, course='Python'))
