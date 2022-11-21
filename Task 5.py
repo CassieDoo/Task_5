@@ -163,3 +163,4 @@ print(lecturer_1 > lecturer_2)
 
 print(mean_course_grades_students(student_1, student_2, course='Python'))
 print(mean_course_grades_students(lecturer_1, lecturer_2, course='Python'))
+
